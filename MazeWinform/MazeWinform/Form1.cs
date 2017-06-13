@@ -299,6 +299,24 @@ namespace MazeWinform
                 }
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                timer1.Interval = Int32.Parse(textBox1.Text);
+            }
+            catch (FormatException ex)
+            {
+                textBox1.Text = 50+"";
+            }
+            timer1.Enabled = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+        }
         #endregion
 
         #region Agent Self Movement 
@@ -318,7 +336,7 @@ namespace MazeWinform
                 label1.Text = "Episode: "+episode;
                 //ShowAgentMap(States);
             }
-            if (episode == breakLearningAfter) { Console.WriteLine("Way:"); timer1.Stop(); }
+            if (episode >= breakLearningAfter) { /*Console.WriteLine("Way:");*/ timer1.Stop(); }
         }
 
         

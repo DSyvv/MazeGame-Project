@@ -7,3 +7,12 @@ C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\De
 C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.exe
 C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.pdb
 C:\Users\PC\Documents\Visual Studio 2015\Projects\MazeWinform\MazeWinform\obj\Debug\MazeWinform.csprojResolveAssemblyReference.cache
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\bin\Debug\MazeWinform.exe.config
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\obj\Debug\MazeWinform.exe
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\obj\Debug\MazeWinform.pdb
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\bin\Debug\MazeWinform.exe
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\bin\Debug\MazeWinform.pdb
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\obj\Debug\MazeWinform.csprojResolveAssemblyReference.cache
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\obj\Debug\MazeWinform.Form1.resources
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\obj\Debug\MazeWinform.Properties.Resources.resources
+E:\Univercity\Избираеми дисциплини\Агентни системи 3k\MazeWinform\MazeWinform\obj\Debug\MazeWinform.csproj.GenerateResource.Cache
